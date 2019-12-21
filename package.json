@@ -1,0 +1,16 @@
+{
+  "name": "@fixbag/api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lividlynx/fixbag-api.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lividlynx/fixbag-api/issues"
+  },
+  "homepage": "https://github.com/lividlynx/fixbag-api#readme"
+}

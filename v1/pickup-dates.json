@@ -1,6 +1,7 @@
 [
   {
     "meta": {
+      "regionName": "Zug-West",
       "color": "#4a9c4a",
       "name": "Zug (ZG)",
       "center": [ 47.166063, 8.515187 ]
@@ -37,6 +38,7 @@
   },
   {
     "meta": {
+      "regionName": "Luzern",
       "color": "#5c7aff",
       "name": "Luzern (LU)",
       "center": [ 47.051834, 8.309085 ]
@@ -73,6 +75,7 @@
   },
   {
     "meta": {
+      "regionName": "Küssnacht",
       "color": "#ff1268",
       "name": "Küssnacht (SZ)",
       "center": [ 47.081405, 8.437616 ]
@@ -109,6 +112,7 @@
   },
   {
     "meta": {
+      "regionName": "Hergiswil (NW)",
       "color": "#fff312",
       "name": "Hergiswil (NW)",
       "center": [ 46.984713, 8.312501 ]
